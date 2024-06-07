@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bba1882d248f3cb4f8a746a6a32dcccd, type: 3}
+  m_Name: 5_bread
+  m_EditorClassIdentifier: 
+  itemtype: 5
+  itemId: 5
+  itemName: "\uC2DD\uBE75"
+  itemDesc: "\uACBD\uD5D8\uCE58 \uC99D\uAC00\uB7C9 0.5 \uC99D\uAC00"
+  itemIcon: {fileID: 81658533, guid: 7be0bc066d865c94191e8f4735473738, type: 3}
+  baseAbility: 0.5
+  bonusScore: 0

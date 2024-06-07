@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: 3da09841086205b40ab227115b406986
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: champions0002_tm002_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 211
+        width: 150
+        height: 813
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0d7f10f1745c04ca725d9340da6ef0
+      internalID: 1224782665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_2
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 864
+        width: 255
+        height: 160
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6922db5a4f74d694486148ce11904563
+      internalID: -1865772353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_3
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 742
+        width: 224
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac3acda50d674d42890bbe68af2739a
+      internalID: 755453884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_4
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 884
+        width: 225
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecada559c9564b4d92ea712ae8dae8e
+      internalID: -1411035800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_16
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 576
+        width: 147
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66f2003427d1ac4f9b5afe95357bb07
+      internalID: -63403995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_21
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 459
+        width: 147
+        height: 123
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a73418fc7db6547a4b982f6a0e227c
+      internalID: -1082143250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_27
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 342
+        width: 132
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37623cefa69b4ba49b255c276b98465e
+      internalID: 2085349142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: champions0002_tm002_34
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 210
+        width: 146
+        height: 814
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a924a53977dfed4696569d86ca5c96e
+      internalID: 1150214436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7fda5dd326fe9241881af8da405e589
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      champions0002_tm002_0: 1224782665
+      champions0002_tm002_1: 2075446747
+      champions0002_tm002_10: 1683515939
+      champions0002_tm002_11: -1321845993
+      champions0002_tm002_12: 1879154695
+      champions0002_tm002_13: -914568604
+      champions0002_tm002_14: -1745691749
+      champions0002_tm002_15: -118300684
+      champions0002_tm002_16: -63403995
+      champions0002_tm002_17: -227534984
+      champions0002_tm002_18: 1902652873
+      champions0002_tm002_19: -688016686
+      champions0002_tm002_2: -1865772353
+      champions0002_tm002_20: 2146784104
+      champions0002_tm002_21: -1082143250
+      champions0002_tm002_22: 1658653042
+      champions0002_tm002_23: -1674872826
+      champions0002_tm002_24: 188009405
+      champions0002_tm002_25: 2119821000
+      champions0002_tm002_26: -440748394
+      champions0002_tm002_27: 2085349142
+      champions0002_tm002_28: 1727332369
+      champions0002_tm002_29: -530359573
+      champions0002_tm002_3: 755453884
+      champions0002_tm002_30: -769647901
+      champions0002_tm002_31: 1869399716
+      champions0002_tm002_32: 2043444167
+      champions0002_tm002_33: 1835348366
+      champions0002_tm002_34: 1150214436
+      champions0002_tm002_4: -1411035800
+      champions0002_tm002_5: -2006072804
+      champions0002_tm002_6: -1673222645
+      champions0002_tm002_7: -911385663
+      champions0002_tm002_8: -746696489
+      champions0002_tm002_9: 1600645271
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

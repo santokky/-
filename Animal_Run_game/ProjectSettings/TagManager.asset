@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Obstacle
+  - Ground
+  - Background
+  - Fall
+  - Bullet
+  - exp
+  - magnetic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: "\uBC30\uACBD"
+    uniqueID: 3106179015
+    locked: 0
+  - name: "\uD6C4\uACBD"
+    uniqueID: 3623226743
+    locked: 0
+  - name: "\uC804\uACBD"
+    uniqueID: 1457791239
+    locked: 0
