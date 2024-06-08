@@ -40,9 +40,6 @@ public class GameController : MonoBehaviour
 
     private void Awake()
     {
-        IceMin = 15;
-        fireMin = 10;
-        chainMin = 10;
         stageClearAudio = GetComponent<AudioSource>();
         if (null == instance)
         {
